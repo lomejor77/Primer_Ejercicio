@@ -7,13 +7,14 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="441dp"
-        android:layout_height="112dp"
-        android:text="Hello World!"
+        android:layout_width="254dp"
+        android:layout_height="73dp"
+        android:text="hola mundo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.479" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
